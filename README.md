@@ -8,6 +8,5 @@
 - 📫 How to reach me: 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/diegoarmandotorresardila/)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: :bicyclist:biking, :video_game: gaming
+
