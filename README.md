@@ -1,4 +1,4 @@
-### Hi there👋, I'm Diego T
+### Hi there👋, I'm Diego T.
 
 <!--
 **DiegoTorresUSA/DiegoTorresUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
