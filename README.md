@@ -10,3 +10,8 @@
 
 - ⚡ Fun fact: :bicyclist:biking, :video_game: gaming
 
+
+
+### Some Github Stats...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoTorresUSA)](https://github.com/DiegoTorresUSA/github-readme-stats)
